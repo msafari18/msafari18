@@ -27,7 +27,7 @@ My work lies at the intersection of **machine learning** and **genomics**, where
 🔬 Currently working on:
 
 - Designing a pipeline for **single-cell lineage tree reconstruction** in **cancer cells** @[Gaiti lab](https://www.gaitilab.com/)
-- Understanding **environmental patterns in extremophile genomes** using clustering and classification @[Kari genomics lab]([https://www.gaitilab.com/](https://github.com/Kari-Genomics-Lab))
+- Understanding **environmental patterns in extremophile genomes** using clustering and classification @[Kari genomics lab](https://github.com/Kari-Genomics-Lab))
 - developing a family of **transformer-based models**, [BarcodeBERT](https://arxiv.org/abs/2311.02401) and [BarcodeMAE](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KIlvvosAAAAJ&citation_for_view=KIlvvosAAAAJ:2osOgNQ5qMEC), to study insect diversity through DNA barcodes @[BIOSCAN-ml](https://github.com/bioscan-ml)
 
 🎓 Previously:

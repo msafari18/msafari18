@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Monireh Safari
 
 I'm a PhD student in Computer Science at the University of Waterloo and a research intern at the Vector Institute and Princess Margaret Cancer Research Center.  
-My work lies at the intersection of **machine learning** and **genomics**, where I'm exploring how we can use deep learning models to better the phylogenetic tree and cell lineage tree (🤔 read more here: [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree), [cell lineage tree](https://en.wikipedia.org/wiki/Cell_lineage)). 
+My work lies at the intersection of **machine learning** and **genomics**, where I'm exploring how we can use deep learning models to better understand the phylogenetic tree and cell lineage tree (🤔 read more here: [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree), [cell lineage tree](https://en.wikipedia.org/wiki/Cell_lineage)). 
 
 ---
 
